@@ -1062,7 +1062,7 @@ const AIAssistant = () => {
           </div>
           <div>
             <h2 className="text-xl font-bold text-white">FintrivX AI Coach</h2>
-            <p className="text-blue-100 text-sm">Powered by Gemini 2.5 • Real-time Financial Analysis</p>
+            <p className="text-blue-100 text-sm">Powered by FintrivX • Real-time Financial Analysis</p>
           </div>
         </div>
 
